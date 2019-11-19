@@ -1,7 +1,7 @@
 # Python obj loader
 ### A module that produces images of assembly manual and surface normal.
 
-### Dependencies
+### Requirements
 * python3.x
 * pygame
 <pre>
