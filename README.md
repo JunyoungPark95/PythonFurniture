@@ -1,5 +1,5 @@
-# Python obj loader
-### A module that produces images of assembly manual and surface normal.
+# Python .obj renderer 
+### render surface normal and assembly manual images
 
 ### Requirements
 * python3.x
