@@ -1,6 +1,6 @@
 # Python obj loader
 ### A module that produces images of assembly manual and surface normal.
 
-![Alt text](/figure/normal.jpg)
+<img src="/figure/normal.jpg" width="450px" height="300px"  alt="normal image"></img><br/>
+<img src="/figure/manual.jpg" width="450px" height="300px"  alt="surface normal image"></img><br/>
 
-![Alt text](/figure/manual.jpg)
