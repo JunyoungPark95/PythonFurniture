@@ -5,20 +5,25 @@
 * python3.x
 * pygame
 <pre>
-<code>pip install pygame</code>
+<code>$ pip install pygame</code>
 </pre>
 * OpenCV
 <pre>
-<code>pip install opencv-contrib-python</code>
+<code>$ pip install opencv-contrib-python</code>
 </pre>
 * Opengl
 <pre>
-<code>pip install pyopengl</code>
+<code>$ pip install pyopengl</code>
+</pre>
+* jupyterlab
+<pre>
+<code>$ conda install jupyterlab</code>
+<code>$ jupyter lab</code>
 </pre>
 
 ### Installation
 <pre>
-<code>git clone https://github.com/JunyoungPark95/PythonFurniture</code>
+<code>$ git clone https://github.com/JunyoungPark95/PythonFurniture</code>
 <code>Open main.ipynb using jupyter lab or jupyter notebook</code>
 </pre>
 
